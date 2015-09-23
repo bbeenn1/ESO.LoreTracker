@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ESO</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="str_collection_title">"Shalidor's Library"</string>
+    <string name="str_search_collections">"Search Shalidor's Library"</string>
+
+</resources>
