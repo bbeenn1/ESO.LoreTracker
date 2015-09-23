@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_lb_collection">
+        <item>"Alik’r Desert Lore"</item>
+        <item>"Auridon Lore"</item>
+        <item>"Bangkorai Lore"</item>
+        <item>"Biographies"</item>
+        <item>"Coldharbour Lore"</item>
+        <item>"Daedric Princes"</item>
+        <item>"Deshaan Lore"</item>
+        <item>"Divines and Deities"</item>
+        <item>"Dungeon Lore"</item>
+        <item>"Dwemer"</item>
+        <item>"Eastmarch Lore"</item>
+        <item>"Glenumbra Lore"</item>
+        <item>"Grahtwood Lore"</item>
+        <item>"Greenshade Lore"</item>
+        <item>"Legends of Nirn"</item>
+        <item>"Literature"</item>
+        <item>"Magic and Magicka"</item>
+        <item>"Malabal Tor Lore"</item>
+        <item>"Myths of the Mundus"</item>
+        <item>"Oblivion Lore"</item>
+        <item>"Poetry and Song"</item>
+        <item>"Reaper’s March Lore"</item>
+        <item>"Rivenspire Lore"</item>
+        <item>"Shadowfen Lore"</item>
+        <item>"Stonefalls Lore"</item>
+        <item>"Stormhaven Lore"</item>
+        <item>"Tamriel History"</item>
+        <item>"The Rift Lore"</item>
+        <item>"The Trial of Eyevea"</item>
+    </string-array>
+    <string-array name="arr_lb_collectionNames">
+        <item>@array/lorebooks_alikrdesertlore</item>
+        <item>@array/lorebooks_auridonlore</item>
+        <item>@array/lorebooks_bangkorailore</item>
+        <item>@array/lorebooks_biographies</item>
+        <item>@array/lorebooks_coldharbourlore</item>
+        <item>@array/lorebooks_daedricprinces</item>
+        <item>@array/lorebooks_deshaanlore</item>
+        <item>@array/lorebooks_divinesanddeities</item>
+        <item>@array/lorebooks_dungeonlore</item>
+        <item>@array/lorebooks_dwemer</item>
+        <item>@array/lorebooks_eastmarchlore</item>
+        <item>@array/lorebooks_glenumbralore</item>
+        <item>@array/lorebooks_grahtwoodlore</item>
+        <item>@array/lorebooks_greenshadelore</item>
+        <item>@array/lorebooks_legendsofnirn</item>
+        <item>@array/lorebooks_literature</item>
+        <item>@array/lorebooks_magicandmagicka</item>
+        <item>@array/lorebooks_malabaltorlore</item>
+        <item>@array/lorebooks_mythsofthemundus</item>
+        <item>@array/lorebooks_oblivionlore</item>
+        <item>@array/lorebooks_poetryandsong</item>
+        <item>@array/lorebooks_reapersmarchlore</item>
+        <item>@array/lorebooks_rivenspirelore</item>
+        <item>@array/lorebooks_shadowfenlore</item>
+        <item>@array/lorebooks_stonefallslore</item>
+        <item>@array/lorebooks_stormhavenlore</item>
+        <item>@array/lorebooks_tamrielhistory</item>
+        <item>@array/lorebooks_theriftlore</item>
+        <item>@array/lorebooks_thetrialofeyevea</item>
+        <item>@array/lorebooks_unknown</item>
+    </string-array>
+    <array name="arr_lb_collection_nums">
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>17</item>     <!-- Dungeon Lore 17 -->
+        <item>16</item>     <!-- Dwemer 16 -->
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>11</item>     <!-- Rivenspire Lore 11 -->
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>10</item>
+        <item>4</item>      <!-- The Trial of Eyevea 4 -->
+    </array>
+    <string-array name="lorebooks_alikrdesertlore">
+        <item>"Motalion Necropolis Report"</item>
+        <item>"Redguards, History and Heroes, V. 1"</item>
+        <item>"Redguards, History and Heroes, V. 2"</item>
+        <item>"Redguards, History and Heroes, V. 3"</item>
+        <item>"Sacrilege and Mayhem in the Alik'r"</item>
+        <item>"Sentinel, the Jewel of Alik'r"</item>
+        <item>"The Salas En Expedition"</item>
+        <item>"Tu'whacca's Prayer"</item>
+        <item>"Varieties of Faith, Crown Redguards"</item>
+        <item>"Varieties of Faith, The Forebears"</item>
+    </string-array>
+    <string-array name="lorebooks_auridonlore">
+        <item>"Crimes of the Daggerfall Covenant"</item>
+        <item>"Fang of the Sea Vipers"</item>
+        <item>"Kinlord Rilis and the Mages Guild"</item>
+        <item>"Life in the Eagle's Shadow"</item>
+        <item>"Regarding the Ebonheart Pact"</item>
+        <item>"Thalmor Handbill"</item>
+        <item>"The Lay of Firsthold"</item>
+        <item>"The Rise of Queen Ayrenn"</item>
+        <item>"Varieties of Faith: The High Elves"</item>
+        <item>"Why Don the Veil?"</item>
+    </string-array>
+    <string-array name="lorebooks_bangkorailore">
+        <item>"A Life Barbaric and Brutal"</item>
+        <item>"Aspects of Lord Hircine"</item>
+        <item>"Bangkorai, Shield of High Rock"</item>
+        <item>"Living with Lycanthropy"</item>
+        <item>"The Glenmoril Wyrd"</item>
+        <item>"The Legend of Fallen Grotto"</item>
+        <item>"The Posting of the Hunt"</item>
+        <item>"The True-Told Tale of Hallin, Pt. 1"</item>
+        <item>"The True-Told Tale of Hallin, Pt. 2"</item>
+        <item>"The Viridian Sentinel"</item>
+    </string-array>
+    <string-array name="lorebooks_biographies">
+        <item>"Ayrenn: The Unforeseen Queen"</item>
+        <item>"Galerion the Mystic"</item>
+        <item>"Great Harbingers of the Companions"</item>
+        <item>"Jorunn the Skald-King"</item>
+        <item>"Trials of St. Alessia"</item>
+        <item>"Triumphs of a Monarch, Ch. 3"</item>
+        <item>"Triumphs of a Monarch, Ch. 6"</item>
+        <item>"Triumphs of a Monarch, Ch. 10"</item>
+        <item>"The All-Beneficent King Fahara'jad"</item>
+        <item>"The Illusion of Death"</item>
+    </string-array>
+    <string-array name="lorebooks_coldharbourlore">
+        <item>"A Life of Strife and Struggle"</item>
+        <item>"Chaotic Creatia: The Azure Plasm"</item>
+        <item>"Exegesis of Merid-Nunda"</item>
+        <item>"I was Summoned by a Mortal"</item>
+        <item>"Oath of a Dishonored Clan"</item>
+        <item>"Protocols of the Court of Contempt"</item>
+        <item>"The Black Forge"</item>
+        <item>"The Library of Dusk: Rare Books"</item>
+        <item>"The Lightless Oubliette"</item>
+        <item>"The Whithering of Delodiil"</item>
+    </string-array>
+    <string-array name="lorebooks_daedricprinces">
+        <item>"Aedra and Daedra"</item>
+        <item>"Boethiah's Proving"</item>
+        <item>"Fragmentae Abyssum Hermaeus Morus"</item>
+        <item>"Invocation of Azura"</item>
+        <item>"Modern Heretics"</item>
+        <item>"Opusculus Lamae Bal ta Mezzamortie"</item>
+        <item>"The Dreamstride"</item>
+        <item>"The House of Troubles"</item>
+        <item>"The Spawn of Molag Bal"</item>
+        <item>"The Totems of Hircine"</item>
+    </string-array>
+    <string-array name="lorebooks_deshaanlore">
+        <item>"A Pocket Guide to Mournhold"</item>
+        <item>"Dark Ruins"</item>
+        <item>"Dwemer Dungeons: What I Know"</item>
+        <item>"Kwama Mining for Fun and Profit"</item>
+        <item>"Legend of the Ghost Snake"</item>
+        <item>"Sanctioned Murder"</item>
+        <item>"Shad Astula Academy Handbook"</item>
+        <item>"The Judgment of Saint Veloth"</item>
+        <item>"The Living Gods"</item>
+        <item>"War of Two Houses"</item>
+    </string-array>
+    <string-array name="lorebooks_divinesanddeities">
+        <item>"Gods and Worship In Tamriel"</item>
+        <item>"Monomyth: Dragon God &amp; Missing God"</item>
+        <item>"Monomyth: Lorkhan and Satakal"</item>
+        <item>"Monomyth: \"Shezarr's Song\""</item>
+        <item>"Monomyth: The Heart of the World"</item>
+        <item>"Monomyth: The Myth of Aurbis"</item>
+        <item>"Nine Commands of the Eight Divines"</item>
+        <item>"The Anuad Paraphrased"</item>
+        <item>"The Lunar Lorkhan"</item>
+        <item>"Vivec and Mephala"</item>
+    </string-array>
+    <string-array name="lorebooks_dungeonlore">
+        <item>"Arx Corinium - First Seed Report"</item>
+        <item>"Burning Vestige, Vol. I"</item>
+        <item>"Civility and Etiquette V. 5: Undead"</item>
+        <item>"Civility and Etiquette: Wood Orcs I"</item>
+        <item>"Josef the Intolerant"</item>
+        <item>"Soul-Trapping I: An Introduction"</item>
+        <item>"Tempest Island Briefing"</item>
+        <item>"The Art of Kwama Egg Cooking"</item>
+        <item>"The Binding Stone"</item>
+        <item>"The Thief God's Treasures"</item>
+        <item>"To All Who Pass Through"</item>
+        <item>"To Posterity"</item>
+        <item>"War Weather"</item>
+        <item>"Wayrest Sewers: A Short History"</item>
+        <item>"What is Volendrung?"</item>
+        <item>"Where Magical Paths Meet"</item>
+        <item>"With Regards to the Ebony Blade"</item>
+    </string-array>
+    <string-array name="lorebooks_dwemer">
+        <item>"Ancient Scrolls of the Dwemer I-A"</item>
+        <item>"Ancient Scrolls of the Dwemer I-B"</item>
+        <item>"Ancient Scrolls of the Dwemer II"</item>
+        <item>"Ancient Scrolls of the Dwemer III"</item>
+        <item>"Ancient Scrolls of the Dwemer IV"</item>
+        <item>"Ancient Scrolls of the Dwemer V"</item>
+        <item>"Ancient Scrolls of the Dwemer VI"</item>
+        <item>"Ancient Scrolls of the Dwemer VIII"</item>
+        <item>"Ancient Scrolls of the Dwemer X"</item>
+        <item>"Ancient Scrolls of the Dwemer XI"</item>
+        <item>"Antecedents of Dwemer Law"</item>
+        <item>"Dwarven Automatons"</item>
+        <item>"Dwemer Inquiries Volume I"</item>
+        <item>"Dwemer Inquiries Volume II"</item>
+        <item>"Dwemer Inquiries Volume III"</item>
+        <item>"Guylaine's Dwemer Architecture"</item>
+    </string-array>
+    <string-array name="lorebooks_eastmarchlore">
+        <item>"All About Giants"</item>
+        <item>"Dreamwalkers"</item>
+        <item>"On Stepping Lightly"</item>
+        <item>"Orcs of Skyrim"</item>
+        <item>"Spirits of Skyrim"</item>
+        <item>"The Brothers' War"</item>
+        <item>"The Crown of Freydis"</item>
+        <item>"The Stormfist Clan"</item>
+        <item>"The Ternion Monks"</item>
+        <item>"Second Invasion: Reports"</item>
+    </string-array>
+    <string-array name="lorebooks_glenumbralore">
+        <item>"A Warning to the Aldmeri Dominion"</item>
+        <item>"Guide to the Daggerfall Covenant"</item>
+        <item>"Schemes of the Reachmage"</item>
+        <item>"The Code of Mauloch"</item>
+        <item>"The True Nature of Orcs (Banned Ed.)"</item>
+        <item>"The Werewolf's Hide"</item>
+        <item>"True Heirs of the Empire"</item>
+        <item>"Varieties of Faith: The Bretons"</item>
+        <item>"Varieties of Faith: The Orcs"</item>
+        <item>"Wyresses: The Name-Daughters"</item>
+    </string-array>
+    <string-array name="lorebooks_grahtwoodlore">
+        <item>"Aurbic Enigma 4: The Elden Tree"</item>
+        <item>"Ayleid Survivals in Valenwood"</item>
+        <item>"Common Arms of Valenwood"</item>
+        <item>"In the Company of Wood Orcs"</item>
+        <item>"The Book of the Great Tree"</item>
+        <item>"The Devouring of Gil-Var-Delle"</item>
+        <item>"The Legend of Vastarie"</item>
+        <item>"Varieties of Faith: The Khajiit"</item>
+        <item>"Varieties of Faith: The Wood Elves"</item>
+        <item>"War Customs of the Tribal Bosmer"</item>
+    </string-array>
+    <string-array name="lorebooks_greenshadelore">
+        <item>"Gifts of the Nereids"</item>
+        <item>"The Eldest: A Pilgrim's Tale"</item>
+        <item>"The Green Pact and the Dominion"</item>
+        <item>"The Ooze: A Fable"</item>
+        <item>"The Wilderking Legend"</item>
+        <item>"The Wood Elf Gourmet, Ch. 1"</item>
+        <item>"Visions of the Green Pact Bosmer"</item>
+        <item>"Woodhearth: A Pocket Guide"</item>
+        <item>"Words of Clan Mother Ahnissi, Pt. 1"</item>
+        <item>"Words of Clan Mother Ahnissi, Pt. 2"</item>
+    </string-array>
+    <string-array name="lorebooks_legendsofnirn">
+        <item>"An Accounting of the Elder Scrolls"</item>
+        <item>"Tamrielic Artifacts, Part One"</item>
+        <item>"Tamrielic Artifacts, Part Two"</item>
+        <item>"Tamrielic Artifacts, Part Three"</item>
+        <item>"The Adabal-a"</item>
+        <item>"The Amulet of Kings"</item>
+        <item>"The Cleansing of the Fane"</item>
+        <item>"The Exclusionary Mandates"</item>
+        <item>"The Last King of the Ayleids"</item>
+        <item>"The Order of the Ancestor Moth"</item>
+    </string-array>
+    <string-array name="lorebooks_literature">
+        <item>"16 Accords of Madness, Vol. VI"</item>
+        <item>"Crow and Raven: Three Short Fables"</item>
+        <item>"Myths of Sheogorath, Vol. 1"</item>
+        <item>"Myths of Sheogorath, Vol. 2"</item>
+        <item>"The Homilies of Blessed Almalexia"</item>
+        <item>"The Legendary Scourge"</item>
+        <item>"The Lusty Argonian Maid, Vol. 1"</item>
+        <item>"The Lusty Argonian Maid, Vol. 2"</item>
+        <item>"The Red Book of Riddles"</item>
+        <item>"Wabbajack"</item>
+    </string-array>
+    <string-array name="lorebooks_magicandmagicka">
+        <item>"Arcana Restored"</item>
+        <item>"Guild Memo on Soul Trapping"</item>
+        <item>"Liminal Bridges"</item>
+        <item>"Magic from the Sky"</item>
+        <item>"Manual of Spellcraft"</item>
+        <item>"On the Detachment of the Sheath"</item>
+        <item>"Proposal: Schools of Magic"</item>
+        <item>"Reality and Other Falsehoods"</item>
+        <item>"The Old Ways"</item>
+        <item>"Wayshrines of Tamriel"</item>
+    </string-array>
+    <string-array name="lorebooks_malabaltorlore">
+        <item>"A Nereid Stole My Husband"</item>
+        <item>"Ayleid Cities of Valenwood"</item>
+        <item>"Green Lady, My Lady"</item>
+        <item>"Pirates of the Abecean"</item>
+        <item>"The Humor of Wood Elves"</item>
+        <item>"The Red Paint"</item>
+        <item>"The Voice of the People"</item>
+        <item>"The Wedding Feast: A Memoir"</item>
+        <item>"The Woodsmer"</item>
+        <item>"Valenwood: A Study"</item>
+    </string-array>
+    <string-array name="lorebooks_mythsofthemundus">
+        <item>"A Werewolf's Confession"</item>
+        <item>"Before the Ages of Man: Dawn Era"</item>
+        <item>"Before the Ages of Man: Merethic Era"</item>
+        <item>"Ebony Blade History"</item>
+        <item>"Noxiphilic Sanguivoria"</item>
+        <item>"Ruminations on the Elder Scrolls"</item>
+        <item>"Sithis"</item>
+        <item>"The Consecrations of Arkay"</item>
+        <item>"The Firmament"</item>
+        <item>"The Pig Children"</item>
+    </string-array>
+    <string-array name="lorebooks_oblivionlore">
+        <item>"Darkest Darkness"</item>
+        <item>"On Oblivion"</item>
+        <item>"On the Nature of Coldharbour"</item>
+        <item>"Spirit of the Daedra"</item>
+        <item>"The Book of Daedra"</item>
+        <item>"The Doors of Oblivion, Part 1"</item>
+        <item>"The Doors of Oblivion, Part 2"</item>
+        <item>"The Slave Pits of Coldharbour"</item>
+        <item>"Varieties of Daedra, Part 1"</item>
+        <item>"Varieties of Daedra, Part 2"</item>
+    </string-array>
+    <string-array name="lorebooks_poetryandsong">
+        <item>"Flesh to Cut from Bone"</item>
+        <item>"Ode to the Tundrastriders"</item>
+        <item>"Proper-Life: Three Chants"</item>
+        <item>"Song of the Askelde Men"</item>
+        <item>"The Battle of Glenumbria Moors"</item>
+        <item>"The Book of Dawn and Dusk"</item>
+        <item>"The Cantatas of Vivec"</item>
+        <item>"The Five Far Stars"</item>
+        <item>"The Warrior's Charge"</item>
+        <item>"Words of the Wind"</item>
+    </string-array>
+    <string-array name="lorebooks_reapersmarchlore">
+        <item>"A Looter's Paradise"</item>
+        <item>"Cohort Briefing: Arenthia"</item>
+        <item>"Elven Eyes, Elven Spies"</item>
+        <item>"Litter-Mates of Darkness"</item>
+        <item>"Master Zoaraym's Tale, Part 1"</item>
+        <item>"Master Zoaraym's Tale, Part 2"</item>
+        <item>"Moon-Sugar for Glossy Fur? Yes!"</item>
+        <item>"The Eagle and the Cat"</item>
+        <item>"The Moon Cats and their Dance"</item>
+        <item>"Yours for the Taking!"</item>
+    </string-array>
+    <string-array name="lorebooks_rivenspirelore">
+        <item>"Bloodfiends of Rivenspire"</item>
+        <item>"Dire Legends of the Doomcrag"</item>
+        <item>"Horse-Folk of Silverhoof"</item>
+        <item>"House Ravenwatch Proclamation"</item>
+        <item>"House Tamrith: A Recent History"</item>
+        <item>"Northpoint: An Assessment"</item>
+        <item>"Shornhelm, Crown City of the North"</item>
+        <item>"The Barrows of Westmark Moor"</item>
+        <item>"The Horse-Folk of Silverhoof"</item>
+        <item>"The Remnant of Light"</item>
+        <item>"The Story of Princess Eselde"</item>
+    </string-array>
+    <string-array name="lorebooks_shadowfenlore">
+        <item>"A Mother's Nursery Rhyme"</item>
+        <item>"A Shallow Pool"</item>
+        <item>"Dust's Shadow"</item>
+        <item>"Fair Argonian Maiden"</item>
+        <item>"Freedom's Price"</item>
+        <item>"On the Knahaten Flu"</item>
+        <item>"Remember Me"</item>
+        <item>"Suril's Journal"</item>
+        <item>"The Right Mattock for the Job"</item>
+        <item>"The Ruby Necklace"</item>
+    </string-array>
+    <string-array name="lorebooks_stonefallslore">
+        <item>"Ancestors and the Dunmer (Abridged)"</item>
+        <item>"Argonians Among Us"</item>
+        <item>"Guide to the Ebonheart Pact"</item>
+        <item>"Mottos of the Dunmeri Great Houses"</item>
+        <item>"Nords of Skyrim"</item>
+        <item>"The Brothers of Strife"</item>
+        <item>"The Great Houses and Their Uses"</item>
+        <item>"Varieties of Faith: The Argonians"</item>
+        <item>"Varieties of Faith: The Dark Elves"</item>
+        <item>"Varieties of Faith: The Nords"</item>
+    </string-array>
+    <string-array name="lorebooks_stormhavenlore">
+        <item>"Founding of the Spirit Wardens"</item>
+        <item>"Once"</item>
+        <item>"Orcs: The Vermin Among Us"</item>
+        <item>"Our Calling, Our Pledge"</item>
+        <item>"Sacred Rites of the Stonechewers"</item>
+        <item>"The Bretons: Mongrels or Paragons?"</item>
+        <item>"The Knightly Orders of High Rock"</item>
+        <item>"To Dream Beyond Dreams"</item>
+        <item>"Tower of Adamant"</item>
+        <item>"Wayrest, Jewel of the Bay"</item>
+    </string-array>
+    <string-array name="lorebooks_tamrielhistory">
+        <item>"Ayleid Inscriptions Translated"</item>
+        <item>"Eulogy for Emperor Varen"</item>
+        <item>"Frontier, Conquest"</item>
+        <item>"History of the Fighters Guild Pt. 1"</item>
+        <item>"History of the Fighters Guild Pt. 2"</item>
+        <item>"House Tharn of Nibenay"</item>
+        <item>"Origin of the Mages Guild"</item>
+        <item>"Return to Orsinium"</item>
+        <item>"The Order of the Black Worm"</item>
+        <item>"The Second Akaviri Invasion"</item>
+    </string-array>
+    <string-array name="lorebooks_theriftlore">
+        <item>"Clans of the Reach: A Guide"</item>
+        <item>"Rivers of Profit in Riften"</item>
+        <item>"Songs of the Return, Volume 27"</item>
+        <item>"Songs of the Return, Volume 49"</item>
+        <item>"Songs of the Return, Volume 5"</item>
+        <item>"Thenephan's Mysteries of Mead"</item>
+        <item>"The Road to Sovngarde"</item>
+        <item>"The Wandering Skald"</item>
+        <item>"Touch of the Worm's Tongue"</item>
+        <item>"Unexpected Allies"</item>
+    </string-array>
+    <string-array name="lorebooks_thetrialofeyevea">
+        <item>"Circus of Cheerful Slaughter"</item>
+        <item>"How the Kwama Lost His Shoes"</item>
+        <item>"A Gift of Sanctuary"</item>
+        <item>"Robier's Vegetable Garden"</item>
+    </string-array>
+    <string-array name="lorebooks_unknown">
+    </string-array>
+</resources>
