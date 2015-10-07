@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_ss_province">
+            <!-- Craglorn VR10+ -->
+        <item>"Craglorn"</item>
+                <!-- Cyrodiil 10+ -->
+        <item>"Cyrodiil Aldmeri"</item>
+        <item>"Cyrodiil Daggerfall"</item>
+        <item>"Cyrodiil Ebonheart"</item>
+        <item>"Cyrodiil Mountain"</item>
+                    <!-- Coldharbour 43+ -->
+        <item>"Coldharbour Skyshards"</item>
+                        <!-- Aldmeri Dominion zones-->
+        <item>"Khenarthi’s Roost"</item>  <!-- 01-05 -->
+        <item>"Auridon"</item>            <!-- 05-15 -->
+        <item>"Grahtwood"</item>          <!-- 16-23 -->
+        <item>"Greenshade"</item>         <!-- 25-30 -->
+        <item>"Malabal Tor"</item>        <!-- 31-37 -->
+        <item>"Reaper’s March"</item>     <!-- 37-43 -->
+                            <!-- Daggerfall Covenant zones -->
+        <item>"Stros M’kai and Betnikh"</item>    <!-- 01-05 -->
+        <item>"Glenumbra"</item>                  <!-- 05-15 -->
+        <item>"Stormhaven"</item>                 <!-- 16-23 -->
+        <item>"Rivenspire"</item>                 <!-- 25-30 -->
+        <item>"Alik’r Desert"</item>              <!-- 31-37 -->
+        <item>"Bangkorai"</item>                  <!-- 37-43 -->
+                                <!-- Ebonheart Pact zones-->
+        <item>"Bleakrock Isle and Bal Foyen"</item>   <!-- 01-05 -->
+        <item>"Stonefalls"</item>                     <!-- 05-15 -->
+        <item>"Deshaan"</item>                        <!-- 16-23 -->
+        <item>"Shadowfen"</item>                      <!-- 25-30 -->
+        <item>"Eastmarch"</item>                      <!-- 31-37 -->
+        <item>"The Rift"</item>                       <!-- 37-43 -->
+    </string-array>
+    <string-array name="arr_ss_provinceNames">
+      <!-- Craglorn -->
+        <item>@array/ss_craglorn</item>
+      <!-- Cyrodiil -->
+        <item>@array/ss_cyrodiilaldmeri</item>
+        <item>@array/ss_cyrodiildaggerfall</item>
+        <item>@array/ss_cyrodiilebonheart</item>
+        <item>@array/ss_cyrodiilmountain</item>
+      <!-- Coldharbour -->
+        <item>@array/ss_coldharbourskyshards</item>
+      <!-- Aldmeri dominion zones-->
+        <item>@array/ss_khenarthisroost</item>
+        <item>@array/ss_auridon</item>
+        <item>@array/ss_grahtwood</item>
+        <item>@array/ss_greenshade</item>
+        <item>@array/ss_malabaltor</item>
+        <item>@array/ss_reapersmarch</item>
+      <!-- Daggerfall covenant zones -->
+        <item>@array/ss_strosmkaiandbetnikh</item>
+        <item>@array/ss_glenumbra</item>
+        <item>@array/ss_stormhaven</item>
+        <item>@array/ss_rivenspire</item>
+        <item>@array/ss_alikrdesert</item>
+        <item>@array/ss_bangkorai</item>
+      <!-- Ebonheart pact zones-->
+        <item>@array/ss_bleakrockisleandbalfoyen</item>
+        <item>@array/ss_stonefalls</item>
+        <item>@array/ss_deshaan</item>
+        <item>@array/ss_shadowfen</item>
+        <item>@array/ss_eastmarch</item>
+        <item>@array/ss_therift</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Craglorn vr10+ -->
+    <string-array name="ss_craglorn">
+        <item>"01. Lava flows where Ayleids walked – Molavar – Elinhir Wayshrine"</item>
+        <item>"02. In a lair of metal spiders – Rkundzelft – Spellscar Wayshrine"</item>
+        <item>"03. Among Yokuda’s dead – Ruins of Kardala – Shada’s Tear Wayshrine"</item>
+        <item>"04. Where sunlight penetrates Dwarven delves – Rkhardahrk – Seeker’s Archive Wayshrine"</item>
+        <item>"05. Where fishmongers sell no fish – Haddock’s Market – Belkarth Wayshrine"</item>
+        <item>"06. Where chisled tunnels meet crystal caverns – Chiselshriek Mine – Mountain Overlook Wayshrine"</item>
+        <item>"07. A sea of dunes beneath the earth – Buried Sands – Shada’s Tear Wayshrine"</item>
+        <item>"08. Under Centurion guard – Mtharnaz – Sandy Path Wayshrine"</item>
+        <item>"09. At the head of the class – Balamath – Inazzur’s Hold Wayshrine"</item>
+        <item>"10. In the grotto of snake-women – Seeker’s Archive Wayshrine"</item>
+        <item>"11. Beyond the pillar of hunger – Tombs of the Na-Totambu – Sandy Path Wayshrine"</item>
+        <item>"12. Howling at the moon – Hircine’s Haunt – Seeker’s Archive Wayshrine"</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Cyrodiil 10+ -->
+    <string-array name="ss_cyrodiilaldmeri">
+        <item>"01. Within sight of Mnem – Scroll Temple Mnem"</item>
+        <item>"02. Ascending toward prophecy and dawn – Scroll Temple Altadoon"</item>
+        <item>"03. Helping establish a new town – Vlastarus"</item>
+        <item>"04. Tooth of Jone or Jode – Lunar Fang Docks"</item>
+        <item>"05. Ruined spire peering north to the Tower – Homestead Ruins"</item>
+        <item>"06. Hears hacking to the east – Carmala Outlook"</item>
+        <item>"07. Upon timbered fingers – Wooden Hand Outlook"</item>
+        <item>"08. Ruin’s crown between three castles – Wenyandawik"</item>
+        <item>"09. Where archers of the Eight train – Abbey of the Eight"</item>
+        <item>"10. Six legged assassins crawl the cave – Bloodmayne Cave"</item>
+        <item>"11. The Black Dagger’s prize – Breakneck Cave"</item>
+        <item>"12. Singing straw’s song – Haynote Cave"</item>
+        <item>"13. Walk the Shadowed path – Nisin Cave"</item>
+        <item>"14. At end of a bumpy road – Pothole Caverns"</item>
+        <item>"15. Where bear and ogre burrow – Serpent Hollow Cave"</item>
+    </string-array>
+    <string-array name="ss_cyrodiildaggerfall">
+        <item>"01. Approach the southern scroll – Scroll Temple of Alma Ruma"</item>
+        <item>"02. Overlooking Ni-Mohk’s falls – Scroll Temple of Ni-Mohk"</item>
+        <item>"03. Near liquid fire flowing – south of Fort Rayles"</item>
+        <item>"04. Decorating a Nord’s manor grounds – Bruma"</item>
+        <item>"05. Offering at the priory – Weyron Priory"</item>
+        <item>"06. Atop a crumbling Empire – Empire Tower"</item>
+        <item>"07. Home of the goat-faced altar – Ninendava"</item>
+        <item>"08. Search near the cliffs…cliffs…cliffs.. – Echo Cliffs"</item>
+        <item>"09. Where a ruin-seeking Khajiit is denied – Anga"</item>
+        <item>"10. Bandits’ crowning achievement – Capstone Cave"</item>
+        <item>"11. Amid reverberations of clattering bones – Echo Cave"</item>
+        <item>"12. Vampires prowl where Elves once live – Lipsand Tarn"</item>
+        <item>"13. In a cave of crimson treasure – Red Ruby Cave"</item>
+        <item>"14. Surrounded by frozen fungus – Toadstool Hollow"</item>
+        <item>"15. Under shroud and ground – Underpall Cave"</item>
+    </string-array>
+    <string-array name="ss_cyrodiilebonheart">
+        <item>"01. Near the scroll of royalty’s secret syllable"</item>
+        <item>"02. Rope ladder Hangs south of Ghartok"</item>
+        <item>"03. Keeping the crops alive – Cropsford"</item>
+        <item>"04. Cradled in a ruined temple hall – Cheydinhal"</item>
+        <item>"05. The Arvinas’ pride – Arvina Estate"</item>
+        <item>"06. Blue Road’s trees fall just down the hill – Belda"</item>
+        <item>"07. Where bound spirits hold vigil – Fanacas"</item>
+        <item>"08. Soft wings spin choral garb – Temple of the Ancestor Moths"</item>
+        <item>"09. Wedged well in Sedor – Sedor"</item>
+        <item>"10. Fractured by the Bloody Hand – Cracked Wood Cave"</item>
+        <item>"11. The monarch’s buried secret – Kingcrest Cavern"</item>
+        <item>"12. Enjoy a good roll in the muck – Muck Valley Cavern"</item>
+        <item>"13. Nurtured by an amphibious host – Newt Cave"</item>
+        <item>"14. Rushing water in the depths – Quickwater Cave"</item>
+        <item>"15. Facing the Faceless – Vahtacen"</item>
+    </string-array>
+    <string-array name="ss_cyrodiilmountain">
+        <item>"01. The Mountain Skyshard - Tunnels or Climb - NE Cyrodiil"</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Coldharbour 43+ -->
+    <string-array name="ss_coldharbourskyshards">
+        <item>"01. East of the bastion of deceit – Hollow City Wayshrine"</item>
+        <item>"02. Discarded from the mages’ walls – Hollow City Wayshrine"</item>
+        <item>"03. Seek a shattered bridge suspended – Moonless Walk Wayshrine"</item>
+        <item>"04. Unfit for court – Court of Contempt Wayshrine"</item>
+        <item>"05. Ejected from the village – Everfull Flagon Wayshrine"</item>
+        <item>"06. Among the vessel’s burnt cousins – Everfull Flagon Wayshrine"</item>
+        <item>"07. In the Chasm’s western watchtower – The Chasm Wayshrine"</item>
+        <item>"08. Not invited into the plotting wives’ home – Manor of Revelry Wayshrine"</item>
+        <item>"09. Washed to strange shores with the fleet – Reaver Citadel Wayshrine"</item>
+        <item>"10. Among the bones of Aba-Loria – Shrouded Plains Wayshrine"</item>
+        <item>"11. Enduring Forgefire’s flames – Everfull Flagon Wayshrine"</item>
+        <item>"12.Seek the deepest depravity – Library of Dusk Wayshrine"</item>
+        <item>"13. Entombed in the Orchard – The Orchard Wayshrine"</item>
+        <item>"14. One of the hunters’ many prides – Court of Contempt Wayshrine"</item>
+        <item>"15. Where endless cries issue forth – Reaver Citadel Wayshrine"</item>
+        <item>"16. Behind disaster-claimed Dunmer hall – Everfull Flagon Wayshrine"</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Aldmeri dominion zones-->
+    <string-array name="ss_khenarthisroost">
+        <item>"Khenarthi’s Roost 01. Exposed to sky, surveying the strand"</item>
+        <item>"Khenarthi’s Roost 02. Southern temple’s hidden jewel (go around to the back of the temple)"</item>
+        <item>"Khenarthi’s Roost 03. Along an inlet through the moon"</item>
+        <item>"Khenarthi’s Roost 04. Abandoned before mourning"</item>
+        <item>"Khenarthi’s Roost 05. Sighted by serpents in Mistral"</item>
+        <item>"Khenarthi’s Roost 06. Surly root-chewers burrow nearby"</item>
+    </string-array>
+    <string-array name="ss_auridon">
+        <item>"01. A Landing of noble’s blood – Vukkhel Guard Wayshrine"</item>
+        <item>"02. Adorns Valano’s terrace – Vukkhel Guard Wayshrine"</item>
+        <item>"03. Offered to appease riled ancestors – Tanzelwil Wayshrine"</item>
+        <item>"04. Watching the sky in a Tower of Swords – Skywatch Wayshrine"</item>
+        <item>"05. Between cursed ruin and shrine – Quendeluun Wayshrine"</item>
+        <item>"06. Near Meromo’s Refreshment – Mathissen Wayshrine"</item>
+        <item>"07. Contemplation’s overlook – College Wayshrine"</item>
+        <item>"08. Up and west in the broken dawn – College Wayshrine"</item>
+        <item>"09. Gleaming beacon, ship-guide – Firsthold Wayshrine"</item>
+        <item>"10. Ancient Chamber of Golden Glow – Quendeluun Wayshrine"</item>
+        <item>"11. The Heritance stakes this claim – Windy Glade Wayshrine"</item>
+        <item>"12. Near the folly’s end- Mathiisen Wayshrine"</item>
+        <item>"13. Held in a corner by the House of Troubles – Greenwater Wayshrine"</item>
+        <item>"14. Blood-drained thralls stumble past – Tanzilwil Wayshrine"</item>
+        <item>"15. Corpses from another age walk here – Quendeluun Wayshrine"</item>
+        <item>"16. Hidden home in the gully’s wall – Tanzelwil Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_grahtwood">
+        <item>"01. Granted safe haven by the mages – Haven Wayshrine"</item>
+        <item>"02. The shrine of the south leads north – Southpoint Wayshrine"</item>
+        <item>"03. Cooling off on the way to the Tower – Haven Wayshrine"</item>
+        <item>"04. Where the road to the root is an isle – Elden Root Wayshrine"</item>
+        <item>"05. Atop falls that feed the temple – Elden Root Temple Wayshrine"</item>
+        <item>"06. Spotted from a treehouse vantage – Cormount Wayshrine"</item>
+        <item>"07. A doorway to trolls near Redfur – Redfur Trading Post Wayshrine"</item>
+        <item>"08. Among ancient words in the stones – Southpoint Wayshrine"</item>
+        <item>"09. Above a seasonal site of return – Falinesti Winter Wayshrine"</item>
+        <item>"10. Where Covenant forces pour forth – Gray Mire Wayshrine"</item>
+        <item>"11. A scrabbling, a skittering, a scurrying – Haven Wayshrine"</item>
+        <item>"12. Six-legged thunder invades – Elden Root Temple Wayshrine"</item>
+        <item>"13. Not yet dead on the vine – Elden Root Temple Wayshrine"</item>
+        <item>"14. Stolen starlight in wormy depths – Redfur Trading Post Wayshrine"</item>
+        <item>"15. Mined by the bandits of Mobar – Falinesti Winter Wayshrine"</item>
+        <item>"16. Crocs claimed a meal in the sunder – Haven Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_greenshade">
+        <item>"01. Flee the labyrinth of words and stone – Labyrinth Wayshrine"</item>
+        <item>"02. In crumbled keep where shadow creeps – Labyrinth Wayshrine"</item>
+        <item>"03. Breath of fresh air for Marbruk’s mages – Marbruk Wayshrine"</item>
+        <item>"04. Find an eclectic outskirt by the sea – Woodhearth Wayshrine"</item>
+        <item>"05. Where moor becomes moat – Woodhearth Wayshrine"</item>
+        <item>"06. Stay dry where the Wooded Eye wards – Serpent’s Grotto Wayshrine"</item>
+        <item>"07. No longer entrenched – Moonhenge Wayshrine"</item>
+        <item>"08. Unheeded by Wood Orc lookouts – Falinesti Wayshrine"</item>
+        <item>"09. Down in the gorge of rope bridges – Falinesti Wayshrine"</item>
+        <item>"10. In Gurzag’s Supplies – Marbruk Wayshrine"</item>
+        <item>"11. Halls ruined further by blue-skin brutes – Greenheart Wayshrine"</item>
+        <item>"12. A pretender in Naril Nagaia – Woodhearth Wayshrine"</item>
+        <item>"13. Under root, but hidden high – Seaside Sanctuary Wayshrine"</item>
+        <item>"14. Batted around in the purring lair – Falinesti Wayshrine"</item>
+        <item>"15. Mined up in a barrow – Moonhenge Wayshrine"</item>
+        <item>"16. Outside the Harbinger’s chamber – Serpent’s Grotto Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_malabaltor">
+        <item>"01. On an orbit of the storm sphere’s home – Ilayas Ruins Wayshrine"</item>
+        <item>"02. The best view of Fuller’s Break – Ilayas Ruins Wayshrine"</item>
+        <item>"03. Unnoticed by a melancholy Elf – Dra’Bul Wayshrine"</item>
+        <item>"04. Near the river, disentangled – Vulkwasten Wayshrine"</item>
+        <item>"05. Seek seaward cliffs by the brewery town – Vulkwasten Wayshrine"</item>
+        <item>"06. Fell from a bridge fleeing Abamath – Bloodtoil Wayshrine"</item>
+        <item>"07. Search every nook to lift the Vale – Valeguard Wayshrine"</item>
+        <item>"08. Eyed from a islet in the river – Wilding Run Wayshrine"</item>
+        <item>"09. Follow the sound of the wilding waves – Wilding Run Wayshrine"</item>
+        <item>"10. Withered within the vine – Wilding Run Wayshrine"</item>
+        <item>"11. Dropped off when he still lived – Ilayas Ruins Wayshrine"</item>
+        <item>"12. Property of parasites – Dra’Bul Wayshrine"</item>
+        <item>"13. Fungus dwellers dig, far from home – Valeguard Wayshrine"</item>
+        <item>"14. Part of Arrai’s spectral dominion – Abamath Wayshrine"</item>
+        <item>"15. Haunted by heretics – Dra’Bul Wayshrine"</item>
+        <item>"16. Held by red-handed bandits – Dra’Bul Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_reapersmarch">
+        <item>"01. East from the solemn eye’s shrine – Fort Grimwatch Wayshrine"</item>
+        <item>"02. Where temple becomes tree-house – Fort Grimwatch Wayshrine"</item>
+        <item>"03. In a smoldering shell – Fort Grimwatch Wayshrine"</item>
+        <item>"04. Overlooking the site of the fall – Vinedusk Wayshrine"</item>
+        <item>"05. Camped on the way to Claw’s Strike – Rawl’kha Wayshrine"</item>
+        <item>"06. Hidden by a less subtle blade – Rawl’kha Wayshrine"</item>
+        <item>"07. Dune’s arcane beacon – Dune Wayshrine"</item>
+        <item>"08. Mara’s devout frets in view – Fort Sphinxmoth Wayshrine"</item>
+        <item>"09. Within earshot of the cheering crowd – Arenthia Wayshrine"</item>
+        <item>"10. Growling, beastly gladiators prowl – Arenthia Wayshrine"</item>
+        <item>"11. Treasure of the bard’s tomb – Vinedusk Wayshrine"</item>
+        <item>"12. Awash in tears underground – Willowgrove Wayshrine"</item>
+        <item>"13. Outlaws strike skooma deals here – Rawl’kha Wayshrine"</item>
+        <item>"14. The folly is in passing through quickly – Fort Sphinxmoth Wayshrine"</item>
+        <item>"15. Moon’s light reveals its secret –  Sren-ja Wayshrine"</item>
+        <item>"16. Far beneath a foul manor – Fort Grimwatch Wayshrine"</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Daggerfall covenant zones -->
+    <string-array name="ss_strosmkaiandbetnikh">
+        <item>"Stros M’kai 01. Across the water from the western wall"</item>
+        <item>"Stros M’kai 02. The mount of The Grave stands open"</item>
+        <item>"Stros M’kai 03. Crashed through a Saintsport roof"</item>
+        <item>"Betnikh 01. In the dig site"</item>
+        <item>"Betnikh 02. Where wolves prowl eastern ruins"</item>
+        <item>"Betnikh 03. Outside a house for the dead"</item>
+    </string-array>
+    <string-array name="ss_glenumbra">
+        <item>"01. Guarding Daggerfall’s estern gates – Daggerfall Wayshrine"</item>
+        <item>"02. Before Dresan’s headless sentinel – Wyrd Tree Wayshrine"</item>
+        <item>"03. Search amongst the shrieks – Daggerfall Wayshrine"</item>
+        <item>"04. Westtry’s dead slept undernearth – Eagle’s Brook Wayshrine"</item>
+        <item>"05. Far behind the Elf-haters’ lines – Aldcroft Wayshrine"</item>
+        <item>"06. Beneath a Hag’s footbridge – Aldcroft Wayshrine"</item>
+        <item>"07. Where vines strangle the sleeping dead – Lion Guard Redoubt Wayshrine"</item>
+        <item>"08. Close to finding the kings – Burial Tombs Wayshrine"</item>
+        <item>"09. A Climb above Crosswych – Crosswych Wayshrine"</item>
+        <item>"10. A Tower Explored is Ilessen learned"</item>
+        <item>"11. Near Silumm’s well on Daggerfall shores – Daggerfall Wayshrine"</item>
+        <item>"12. Within a mine of blood and thorns – Hag Fen Wayshrine"</item>
+        <item>"13. Behind a wall to Enduum all – Eagle’s Brook Wayshrine"</item>
+        <item>"14. Where Ebon Crypts become Ebon Caves – Lion Guard Redoubt Wayshrine"</item>
+        <item>"15. In the bowls of Cryptwatch – Crosswych Wayshrine"</item>
+        <item>"16. In the roots of the Hallows – Daggerfall Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_stormhaven">
+        <item>"01. On Koeglin’s crown – Koeglin Village Wayshrine"</item>
+        <item>"02. Atop the stairs of Newgate – Alcaire Castle Wayshrine"</item>
+        <item>"03. Beside the henge of Nightmare Crag – Koeglin Village Wayshrine"</item>
+        <item>"04. The foot of Wind Keeps’ falls – Wind Keep Wayshrine"</item>
+        <item>"05. Before a breach in Aphren’s wall – Dro’dara Plantation Wayshrine"</item>
+        <item>"06. Atop the soulless tower – Soulshriven Wayshrine"</item>
+        <item>"07. In the monster’s pantry – Wind Keep Wayshrine"</item>
+        <item>"08. Where the giant’s tears fall – Weeping Giant Wayshrine"</item>
+        <item>"09. Camped in the sight of the eastern gate – Weeping Giant Wayshrine"</item>
+        <item>"10. Delve deep with the bear’s claw – Weeping Giant Wayshrine"</item>
+        <item>"11. Locked behind Farangel’s iron bars – Soulshriven Wayshrine"</item>
+        <item>"12. Mine your manners outside Steelheart – Bonesnap Ruins Wayshrine"</item>
+        <item>"13. Explore the ruins north of Wind’s Keep – Pariah Abbey Wayshrine"</item>
+        <item>"14. Comb the abbey’s catacombs – Pariah Abbey Wayshrine"</item>
+        <item>"15. West of Firebrand, deep beneath the tower – Firebrand Keep Wayshrine"</item>
+        <item>"16. Explore the ruins of broken marrow – Bonesnap Ruins Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_rivenspire">
+        <item>"01. Just outside Shornhelm’s gate – Shornhelm Wayshrine"</item>
+        <item>"02. Honoring the dead in Eyebright’s west – Tamrith Camp Wayshrine"</item>
+        <item>"03. Crumbled tower, Crestshade’s welcome – Crestshade Wayshrine"</item>
+        <item>"04. Wolves howl at Hoarfrost nearby – Hoarfrost Downs Wayshrine"</item>
+        <item>"05. Cresting the wood of words – Hoarfrost Downs Wayshrine"</item>
+        <item>"06. High in the debris of the hills – Northpoint Wayshrine"</item>
+        <item>"07. Skittered over in the pass – Staging Grounds Wayshrine"</item>
+        <item>"08. Follow the song to the Landing – Northpoint Wayshrine"</item>
+        <item>"09. Ditched outside of Lorkrats – Fell’s Run Wayshrine"</item>
+        <item>"10. In the tunnels under Crestshade – Crestshade Wayshrine"</item>
+        <item>"11. Seek worms who burrow for a tear – Staging Ground Wayshrine"</item>
+        <item>"12. Among Flyleaf’s unearthed dead – Tamrith Camp Wayshrine"</item>
+        <item>"13. Secret in the blood-suckers’ hideaway – Northpoint Wayshrine"</item>
+        <item>"14. Look upon the Orsimer’s dead – Boralis Wayshrine"</item>
+        <item>"15. Conquer the crypt of trials – Sanguine Barrows Wayshrine"</item>
+        <item>"16. Stolen by worshipers of Ashpit’s Lord – Hoarfrost Downs Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_alikrdesert">
+        <item>"01. Sentinel of a domed tower – Sentinel Wayshrine"</item>
+        <item>"02. Shredding shame in the oasis – Divad’s Chagrin Mine Wayshrine"</item>
+        <item>"03. Across the ruin from the Warrior – Morwha’s Bounty Wayshrine"</item>
+        <item>"04. Stored on a Bergama roof – Bergama Wayshrine"</item>
+        <item>"05. Walltop view of the broken blade – Kulati Mines Wayshrine"</item>
+        <item>"06. Beside a drydocked stern – Aswala Stables Wayshrine"</item>
+        <item>"07. Left out in the open by Kozanset Mages – HoonDing’s Watch Wayshrine"</item>
+        <item>"08. Near a paid feather-finder – HoonDing’s Watch Wayshrine"</item>
+        <item>"09. Tears shed for a toppled spire – Shrikes’ Aerie Wayshrine"</item>
+        <item>"10. Second stop on her search for the Pearl – Bergama Wayshrine"</item>
+        <item>"11. Buried respite from desert heat – Sep’s Spine Wayshrine"</item>
+        <item>"12. Dig deep, don’t be embarrassed – Goat’s Head Oasis Wayshrine"</item>
+        <item>"13. Blown down a mine shaft – HoonDing’s Watch Wayshrine"</item>
+        <item>"14. A caravan’s wreckage marks the path – Sentinel Wayshrine"</item>
+        <item>"15. Trapped within the steam closet – Shrikes’ Aerie Wayshrine"</item>
+        <item>"16. Monumental find in the Lost City – Sep’s Spine Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_bangkorai">
+        <item>"01. A scenic view of Evermore’s bridge – Evermore Wayshrine"</item>
+        <item>"02. Listening to Silaseli’s whispers – Troll’s Toothpick Wayshrine"</item>
+        <item>"03. Tossed into a coverside tower – Troll’s Toothpick Wayshrine"</item>
+        <item>"04. Answer the call to battle – Viridian Woods Wayshrine"</item>
+        <item>"05. Secret shrine by Pelin’s Church – Evermore Wayshrine"</item>
+        <item>"06. Hears hags but sees mobile limbs – Evermore Wayshrine"</item>
+        <item>"07. Waiting to be inducted to the Hall – Onsi’s Breath Wayshrine"</item>
+        <item>"08. Take a fall from the grotto – Sunken Road Wayshrine"</item>
+        <item>"09. Nested in an Imperial camp – Old Tower Wayshrine"</item>
+        <item>"10. Sent away to stay with the dead – Bangkorai Pass Wayshrine"</item>
+        <item>"11. Tragic tale of architect and princess – Old Tower Wayshrine"</item>
+        <item>"12. Found in spite – Evermore Wayshrine"</item>
+        <item>"13. Where a stormy ritual brews – Nilata Ruins Wayshrine"</item>
+        <item>"14. Stuck in a troll’s maw – Troll’s Toothpick Wayshrine"</item>
+        <item>"15. Bjoulsae bandits’ hidden lair – Viridian Woods Wayshrine"</item>
+        <item>"16. Meddling Imperial disrupt the wheel – Hallin’s Stand Wayshrine"</item>
+    </string-array>
+    <!--_________________________________________________________________________________________-->
+    <!-- Ebonheart pact zones-->
+    <string-array name="ss_bleakrockisleandbalfoyen">
+        <item>"Bleakrock Isle 01. High atop the shrouded Barrow"</item>
+        <item>"Bleakrock Isle 02. A Hollow victory beyond the iceflows"</item>
+        <item>"Bleakrock Isle 03. To dig too deep would be no Folly"</item>
+        <item>"Bal Foyen 01. Hidden near the highest hut"</item>
+        <item>"Bal Foyen 02. In the fort, just around the way"</item>
+        <item>"Bal Foyen 03. About to Set Sail"</item>
+    </string-array>
+    <string-array name="ss_stonefalls">
+        <item>"01. Watching Lions swim to shore – Davon’s Watch Wayshrine"</item>
+        <item>"02. Near Bal Foyen’s gate – Davon’s Watch Wayshrine"</item>
+        <item>"03. Staging an attack on Arand – Fort Arand Wayshrine"</item>
+        <item>"04. A Lady on a cliff, beyond Sulfur Pools – Sulfur Pools Wayshrine"</item>
+        <item>"05. Among the mushrooms, high above Lukiul Uxith
+        <item>"06. Among the pools of fire, above Vivec’s Wayshrine"</item> – Vivec’s Antler Wayshrine"</item>
+        <item>"07. South on the Ashen Road, where lava flows – Ashen Road Wayshrine"</item>
+        <item>"08. Tucked away, on a grotto’s mantel – Iliath Temple Wayshrine"</item>
+        <item>"09. On a hillside behind a plantation – Sathram Plantation Wayshrine"</item>
+        <item>"10. Left to rust behind the ancient arms – Davon’s Watch Wayshrine"</item>
+        <item>"11. Used to strike flames underground – Fort Arand Wayshrine"</item>
+        <item>"12. Listening to the Spinner’s whispers – Brothers of Strife Wayshrine"</item>
+        <item>"13. Found in soft dirt by daggers – Ashen Road Wayshrine"</item>
+        <item>"14. Where a fiery tide rises – Hrogar’s Hold Wayshrine"</item>
+        <item>"15. Discovering a taste for madness – Sathram Plantation Wayshrine"</item>
+        <item>"16. Drowned in the south by a clever bird – Davon’s Watch Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_deshaan">
+        <item>"01. Free from quarantine – Quarantine Serk Wayshrine"</item>
+        <item>"02. A Hlaalu victory in Narsis – West Narsis Wayshrine"</item>
+        <item>"03. A river view on Muth Gnarr’s outskirts – Muth Gnarr Hills Wayshrine"</item>
+        <item>"04. A twin falls in Mournhold – Mzithumz Wayshrine"</item>
+        <item>"05. Near the remnants of a House caravan – Mzithumz Wayshrine"</item>
+        <item>"06. Follow the river that snakes south to its source – Ghost Snake Vale Wayshrine"</item>
+        <item>"07. Search near the cavern with three eyes – Silent Mire Wayshrine"</item>
+        <item>"08. The right tower is Tal’Deic’s left – Tal’Deic Grounds Wayshrine"</item>
+        <item>"09. Where ships dock and mushrooms Mire – Tal’Deic Grounds Wayshrine"</item>
+        <item>"10. Where the dead walk, no memories linger – Obsidian Gorge Wayshrine"</item>
+        <item>"11. Lend me your ear – Tal’Deic Grounds Wayshrine"</item>
+        <item>"12. Where a lady seeks kwama before the storm – Obsidian Gorge Wayshrine"</item>
+        <item>"13. Asleep in the depths, the Dwemer awakens – Muth Gnarr Hills Wayshrine"</item>
+        <item>"14. Mind your step where the water drops in – Shad Astula Wayshrine"</item>
+        <item>"15. Go from Crags to riches – Ghost Snake Vale Wayshrine"</item>
+        <item>"16. Where corpses till a garden of sand – Eidolon’s Hollow Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_shadowfen">
+        <item>"01. Above the Mages’ eye between the falls – Stormhold Wayshrine"</item>
+        <item>"02. Still shrouded by spray past a western rise – Stillrise Wayshrine"</item>
+        <item>"03. Sneak behind the relic-thieves’ camp – Bogmother Wayshrine"</item>
+        <item>"04. Beside a bowsprit among pirates – Alten Corimont Wayshrine"</item>
+        <item>"05. Ritual flames brew trouble in the mire – Percolating Mire Wayshrine"</item>
+        <item>"06. Where wisps waylay wanderers – Percolating Mire Wayshrine"</item>
+        <item>"07. Like the sound of steam or snakes – Hissmir Wayshrine"</item>
+        <item>"08. Overlooking the murk of Xal Ithix – Lorisael Wayshrine"</item>
+        <item>"09. Imprisoned in a crumbling tower – Venomous Fens Wayshrine"</item>
+        <item>"10. Peak behind pillars in Atanaz – Alten Corimont Wayshrine"</item>
+        <item>"11. Skittering, slithering, a tusk once whole – Forsaken Hamlet Wayshrine"</item>
+        <item>"12. Unearth by an outlaw excavation – Loriasel Wayshrine"</item>
+        <item>"13. Crown in hand, leave and look right – Hatching Pools Wayshrine"</item>
+        <item>"14. Climb, little kwama, to reach your goal – Percolating Mire Wayshrine"</item>
+        <item>"15. Digesting in the belly of the Black Maw – Stormhold Wayshrine"</item>
+        <item>"16. Deep in the den of debauchery – Stormhold Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_eastmarch">
+        <item>"01. Nestled beside Morvunskar’s royal tomb – Fort Morvunskar Wayshrine"</item>
+        <item>"02. Giants despoil the village below – Windhelm Wayshrine"</item>
+        <item>"03. Leave the hollow to cure the chill – Windhelm Wayshrine"</item>
+        <item>"04. Strewn between tusks near the barrow – Kynesgrove Wayshrine"</item>
+        <item>"05. Beside a bridge to Amol – Fort Amol Wayshrine"</item>
+        <item>"06. Lost in ruins beyond the grotto – Fort Amol Wayshrine"</item>
+        <item>"07. Mzulft’s secrets are not all underground – Logging Camp Wayshrine"</item>
+        <item>"08. Attempting to spy on Aelif – Jorunn’s Stand Wayshrine"</item>
+        <item>"09. Stashed near a farm in icy winds – Logging Camp Wayshrine"</item>
+        <item>"10. An illegitimate child’s reading material – Jorunn’s Stand Wayshrine"</item>
+        <item>"11. Search the slipperiest places in the hollow – Windhelm Wayshrine"</item>
+        <item>"12. Three eyes gleam, a frigid prize – Fort Amol Wayshrine"</item>
+        <item>"13. Crashed from the sky to open the vault – Kynesgrove Wayshrine"</item>
+        <item>"14. Old Sord excelled at hide-and-seek – Logging Camp Wayshrine"</item>
+        <item>"15. Among the dead, sheltered from storms – Jorunn’s Stand Wayshrine"</item>
+        <item>"16. Near a throne in the Hall of the Dead – Windhelm Wayshrine"</item>
+    </string-array>
+    <string-array name="ss_therift">
+        <item>"01. Braced against wind near the mine – Northwind Mine Wayshrine"</item>
+        <item>"02. Be Shor to search all over the stone – Fallowstone Hall Wayshrine"</item>
+        <item>"03. Nearly discovered by a mauled stablehand – Northwind Mine Wayshrine"</item>
+        <item>"04. Cultists’ prize near Ragged Hills – Ragged Hills Wayshrine"</item>
+        <item>"05. Scour the crags near Avancheznel – Honrich Tower Wayshrine"</item>
+        <item>"06. South where worms swarm the barrow – Taarengrav Wayshrine"</item>
+        <item>"07. A prospect found – Fullhelm Fort Wayshrine"</item>
+        <item>"08. Walk above the clouds – Trolhetta Wayshrine"</item>
+        <item>"09. Stay alert between Riften and Greenwall – Rift Wayshrine"</item>
+        <item>"10. Clank of gears and hiss of steam – Honrich Tower Wayshrine"</item>
+        <item>"11. Guarded by bears in the hollow – Trolhetta Wayshrine"</item>
+        <item>"12. Deep in the roots of the tooth – Honrich Tower Wayshrine"</item>
+        <item>"13. Where green grows in the fort’s wall – Riften Wayshrine"</item>
+        <item>"14. Take a shrouded approach – Geirmund’s Hall Wayshrine"</item>
+        <item>"15. Tread carefully; don’t break a leg – Northwind Mine Wayshrine"</item>
+        <item>"16. Protected by wraiths in a beast’s den – Taarengrav Wayshrine"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.bfixedit.eso.StartActivity"/>
+      <point      
+        x = "138"      
+        y = "846"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.bfixedit.eso.SkyshardActivityMain"/>
+      <point      
+        x = "1554"      
+        y = "2214"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.bfixedit.eso.LorebookActivityMain"/>
+      <point      
+        x = "1730"      
+        y = "95"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
