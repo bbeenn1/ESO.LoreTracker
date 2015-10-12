@@ -8,21 +8,14 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat" >
         <activity
-<<<<<<< HEAD
-            android:name=".MainActivity"
-            android:label="@string/app_name" >
-=======
             android:name=".StartActivity"
             android:label="@string/app_title" >
->>>>>>> ESO-LoreBooks
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-<<<<<<< HEAD
-=======
         <activity
             android:name=".LorebookActivityMain"
             android:label="@string/title_activity_lorebooks" >
@@ -31,7 +24,6 @@
             android:name=".SkyshardActivityMain"
             android:label="@string/title_activity_skyshards" >
         </activity>
->>>>>>> ESO-LoreBooks
     </application>
 
 </manifest>

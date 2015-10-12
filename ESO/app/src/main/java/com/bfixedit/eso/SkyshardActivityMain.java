@@ -134,6 +134,7 @@ public class SkyshardActivityMain extends AppCompatActivity implements ActionBar
         }
 
         public PlaceholderFragment() {
+            // TODO: Switch Statement here for skyshard ListView from NavigationItemSelected?
         }
 
         @Override
